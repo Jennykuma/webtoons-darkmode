@@ -1,0 +1,12 @@
+{
+  "name": "Webtoons Darkmode",
+  "description": "Read without killing your eyes!",
+  "version": "1.0",
+  "content_scripts": [
+    {
+    "css": ["styles.css"],
+    "matches": ["https://www.webtoons.com/*"]
+    }
+  ],
+  "manifest_version": 3
+}
