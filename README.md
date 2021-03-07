@@ -1,2 +1,2 @@
 # webtoons-darkmode
-Read without killing your eyes!!
+Read Webtoons without killing your eyes!!
